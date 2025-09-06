@@ -1,0 +1,85 @@
+The patient is a 65-year-old male with severe COPD (GOLD III) presenting with 2 weeks of worsening dyspnea, wheezing, pleuritic right-sided chest pain, and productive cough with yellow-green sputum, now with fevers and decreased exercise tolerance. Reports orthopnea and mild lower-extremity edema. No hemoptysis. Denies recent travel; continues to smoke ½ pack/day. Uses CPAP inconsistently.
+
+Past Medical History: COPD; type 2 diabetes mellitus (poorly controlled); hypertension; chronic kidney disease stage 3b (baseline Cr \~1.8 mg/dL); ischemic cardiomyopathy with HFrEF (EF 35% in 2023) and CAD s/p NSTEMI with stent (2018); paroxysmal atrial fibrillation on anticoagulation; obstructive sleep apnea; hypothyroidism; GERD; peripheral neuropathy; BPH; depression; prior TIA (2016).
+
+Medications: umeclidinium/vilanterol inhaler daily; fluticasone inhaler; albuterol MDI PRN; metformin 1000 mg BID; insulin glargine nightly with prandial insulin lispro; lisinopril 20 mg daily; carvedilol 12.5 mg BID; furosemide 40 mg daily; spironolactone 25 mg daily; apixaban 5 mg BID; atorvastatin 80 mg nightly; levothyroxine 75 mcg daily; omeprazole 20 mg daily; sertraline 50 mg daily; tamsulosin 0.4 mg nightly.
+
+Allergies: penicillin (rash).
+
+Vital Signs: T 38.1°C, HR 112 (irregularly irregular), BP 102/64, RR 24, SpO₂ 88% on room air → 93% on 2 L NC.
+
+Physical Exam: Ill-appearing but oriented. Accessory muscle use; diffuse expiratory wheezes; crackles at right base; decreased air entry bilaterally. JVP mildly elevated. 1+ bilateral pitting edema. Irregularly irregular rhythm; no murmurs. Left forearm with a 1.3 × 0.9 cm asymmetrical, variegated hyperpigmented macule with irregular borders; no regional lymphadenopathy. Right plantar surface with a 1.5 cm shallow ulcer over metatarsal head, clean base with mild surrounding erythema, no purulence.
+
+Studies:
+– CXR: Right lower-lobe consolidation with small parapneumonic effusion.
+– CTA chest: No PE; bronchial wall thickening; emphysematous changes; RLL airspace disease.
+– EKG: Atrial fibrillation with RVR (rate \~120), no acute ischemic changes.
+– Labs: WBC 15.2 K with left shift; lactate 1.9 mmol/L; CRP 105 mg/L; procalcitonin 1.2 ng/mL. Na 130, K 4.9, HCO₃ 22. BUN 44, Cr 2.2 (baseline 1.8). Glucose 268 mg/dL. BNP 650 pg/mL (prior 420). hs-Troponin negative ×2. A1c 9.2%. TSH 6.2 μIU/mL, free T4 low-normal.
+– ABG on 2 L NC: pH 7.44 / PaCO₂ 35 / PaO₂ 62.
+– Rapid flu/COVID negative. Blood and sputum cultures pending.
+– Diabetic foot X-ray: No gas; no bony erosions.
+
+Assessment/Plan:
+
+1. Acute hypoxemic respiratory failure due to community-acquired pneumonia with concurrent COPD exacerbation; possible mild volume overload from HFrEF.
+   – Oxygen to maintain SpO₂ 88–92%.
+   – Nebulized ipratropium/albuterol q4–6h; continue inhaled ICS/LABA/LAMA.
+   – Prednisone 40 mg PO daily × 5 days.
+   – Empiric ceftriaxone + azithromycin (monitor QTc; safe with non-anaphylactic penicillin allergy); de-escalate per cultures and clinical response; adjust dosing for CKD.
+   – Incentive spirometry, pulmonary hygiene.
+   – Daily weights, strict I\&O; consider gentle IV diuresis if persistent crackles/edema.
+
+2. HFrEF (EF 35%)—possible mild decompensation.
+   – Assess volume status daily; if overloaded, IV furosemide to net –0.5 to –1 L/day, monitor BMP and Mg.
+   – Continue carvedilol if hemodynamically tolerated.
+   – Temporarily hold spironolactone if K >5.0 or worsening renal function.
+   – Repeat transthoracic echocardiogram if no study in 12 months or clinical change.
+
+3. Atrial fibrillation with RVR.
+   – Rate control with IV/PO beta-blocker as BP allows; telemetry monitoring.
+   – Continue apixaban 5 mg BID unless held for procedures; CHADS₂-VASc high.
+   – Coordinate periprocedural anticoagulation hold for dermatologic excision (see #7).
+
+4. AKI on CKD 3b (Cr 2.2 from baseline 1.8), likely pre-renal/inflammatory.
+   – Hold metformin and lisinopril during AKI and hypotension; avoid nephrotoxins and IV contrast.
+   – Renal-adjust all meds; daily BMP; urine lytes if persistent AKI.
+
+5. Type 2 diabetes mellitus, uncontrolled (A1c 9.2%).
+   – Hold metformin due to AKI and infection.
+   – Basal–bolus insulin with correction scale; bedside glucose before meals/HS; hypoglycemia protocol.
+   – Diabetes education; consider CGM outpatient.
+
+6. Hyponatremia (Na 130), likely multifactorial (HF vs SIADH from pneumonia).
+   – Fluid status optimization; serum/urine osms and urine sodium; correct slowly (<8–10 mmol/L/24 h).
+
+7. Suspicious left forearm lesion—concern for malignant melanoma.
+   – Dermatology consult; excisional biopsy with 1–3 mm margin pending size/depth; sentinel node mapping if Breslow >0.8 mm or ulceration.
+   – For biopsy: hold apixaban \~48–72 h prior given CKD; resume 24 h post-procedure if hemostasis secure; use SCDs while off anticoagulation.
+
+8. Diabetic foot ulcer, Wagner grade 1–2, plantar right forefoot.
+   – Wound care consult; offloading footwear; daily saline dressings; consider doxycycline or cephalexin if cellulitis evolves; optimize glycemic control; ensure tetanus up to date.
+
+9. Hypothyroidism, suboptimally controlled.
+   – Continue levothyroxine; recheck TSH in 6–8 weeks after acute illness resolves; assess adherence and interactions (PPI timing).
+
+10. CAD with prior stent; hyperlipidemia.
+    – Continue high-intensity statin.
+    – No aspirin while on apixaban unless cardiology indicates.
+
+11. Depression.
+    – Continue sertraline; screen for sleep disturbance; reinforce CPAP adherence.
+
+12. Obstructive sleep apnea.
+    – CPAP nightly during hospitalization and after discharge; RT to refit mask.
+
+13. Tobacco use disorder.
+    – Brief cessation counseling; offer nicotine replacement and outpatient pulmonary rehab referral.
+
+14. Preventive care and vaccines.
+    – Offer influenza and COVID booster prior to discharge; review pneumococcal status (PCV20 if not previously received).
+
+15. Disposition/Follow-up.
+    – Admit to medicine service with telemetry.
+    – Daily reassessment of oxygen requirement, renal function, and cultures for de-escalation.
+    – Outpatient follow-up: pulmonology (COPD optimization, pulmonary rehab), cardiology (HF/AF management), dermatology/oncology (biopsy pathology and staging if melanoma), podiatry/wound clinic, endocrinology or diabetes educator.
+    – Code status discussed: Full code (to be revisited with patient and family).
