@@ -1,0 +1,62 @@
+# ICD-10 Extraction System Configuration
+
+# Model Configuration
+models:
+  gpt4_1: "gpt-4.1"
+  gpt4_1_mini: "gpt-4.1-mini"
+  gpt4o_mini: "gpt-4o-mini"
+  temperature: 0.1
+  max_tokens: null
+
+# Data Paths
+data:
+  icd10_csv_path: "data/icd10_2019.csv"
+  faiss_db_path: "data/icd10_faiss_db"
+  clinical_notes_dir: "data/clinical_notes"
+
+# Output Configuration
+output:
+  results_dir: "output"
+  csv_filename: "extraction_results.csv"
+  log_level: "INFO"
+
+# Retriever Configuration
+retrievers:
+  faiss:
+    search_type: "similarity"
+    k: 10
+  bm25:
+    k: 10
+
+# Agent Configuration
+agents:
+  gpt4_extractor:
+    enabled: true
+    role: "ICD-10 Extractor (GPT-4.1)"
+    debug_logging: "info"
+  
+   gpt4_1_mini_extractor:
+    enabled: true
+    role: "ICD-10 Extractor (GPT-4.1-mini)"
+    debug_logging: "info"
+  
+  gpt4o_mini_extractor:
+    enabled: true
+    role: "ICD-10 Extractor (GPT-4o-mini)"
+    debug_logging: "info"
+  
+  rag_extractor:
+    enabled: true
+    role: "ICD-10 Extractor (RAG)"
+    debug_logging: "info"
+  
+  bm25_extractor:
+    enabled: true
+    role: "ICD-10 Extractor (BM25)"
+    debug_logging: "info"
+
+# Performance Settings
+performance:
+  max_retries: 3
+  timeout_seconds: 300
+  parallel_processing: false
